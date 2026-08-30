@@ -40,3 +40,4 @@ Gera a pasta `dist/` — é isso que vai pro ar.
 
 - **Depoimentos** (seção "Código bem escrito. Site que funciona.") ainda são ilustrativos — tem um comentário no código (`src/data/content.js`) marcando isso. Troque pelos relatos reais dos seus 3 clientes antes de divulgar o site pra valer.
 - Se o domínio mudar de `velascosites.vercel.app`, atualiza as URLs em `index.html` (Open Graph, canonical, JSON-LD) e em `public/sitemap.xml`.
+
