@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://velascosites.vercel.app/sitemap.xml
